@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (test_46_12_string2int_float.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  test_46_12_string2num.c
+  test_46_12_string2int_float.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\test_46_12_string2int_float\Debug\test_46_12_string2num.exe
+  test_46_12_string2int_float.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\test_46_12_string2int_float\Debug\test_46_12_string2num.pdb (Full PDB)
