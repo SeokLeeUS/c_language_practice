@@ -1,0 +1,4 @@
+﻿  example_46_1_atoi.c
+c:\users\slee194\documents\visual studio 2015\projects\example_46_1_atoi\example_46_1_atoi\example_46_1_atoi.c(7): warning C4013: 'atoi' undefined; assuming extern returning int
+  example_46_1_atoi.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_46_1_atoi\Debug\example_46_1_atoi.exe
+  example_46_1_atoi.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_46_1_atoi\Debug\example_46_1_atoi.pdb (Full PDB)
