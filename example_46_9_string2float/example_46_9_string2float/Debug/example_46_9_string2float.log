@@ -1,0 +1,5 @@
+﻿  example_46_9_string2float.c
+c:\users\slee194\documents\visual studio 2015\projects\example_46_9_string2float\example_46_9_string2float\example_46_9_string2float.c(8): warning C4133: 'function': incompatible types - from 'float **' to 'char **'
+c:\users\slee194\documents\visual studio 2015\projects\example_46_9_string2float\example_46_9_string2float\example_46_9_string2float.c(11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  example_46_9_string2float.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_46_9_string2float\Debug\example_46_9_string2float.exe
+  example_46_9_string2float.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_46_9_string2float\Debug\example_46_9_string2float.pdb (Full PDB)
