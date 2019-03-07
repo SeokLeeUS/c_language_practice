@@ -1,0 +1,4 @@
+﻿  example_46_2_strtol.c
+c:\users\slee194\documents\visual studio 2015\projects\example_46_2_strtol\example_46_2_strtol\example_46_2_strtol.c(14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  example_46_2_strtol.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_46_2_strtol\Debug\example_46_2_strtol.exe
+  example_46_2_strtol.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_46_2_strtol\Debug\example_46_2_strtol.pdb (Full PDB)
