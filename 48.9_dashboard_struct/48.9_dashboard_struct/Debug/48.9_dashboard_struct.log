@@ -1,0 +1,4 @@
+﻿  example_48_9_dashboard_struct.c
+c:\users\slee194\documents\visual studio 2015\projects\48.9_dashboard_struct\48.9_dashboard_struct\example_48_9_dashboard_struct.c(26): warning C4566: character represented by universal-character-name '\u2103' cannot be represented in the current code page (1252)
+  48.9_dashboard_struct.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\48.9_dashboard_struct\Debug\example_48_9_dashboard_struct.exe
+  48.9_dashboard_struct.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\48.9_dashboard_struct\Debug\example_48_9_dashboard_struct.pdb (Full PDB)
