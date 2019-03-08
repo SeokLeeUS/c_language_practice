@@ -1,0 +1,5 @@
+﻿  test_47_5_find_space.c
+c:\users\slee194\documents\visual studio 2015\projects\test_47_5_find_space\test_47_5_find_space\test_47_5_find_space.c(8): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\slee194\documents\visual studio 2015\projects\test_47_5_find_space\test_47_5_find_space\test_47_5_find_space.c(8): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+  test_47_5_find_space.vcxproj -> C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\test_47_5_find_space\Debug\test_47_5_find_space.exe
+  test_47_5_find_space.vcxproj -> C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\test_47_5_find_space\Debug\test_47_5_find_space.pdb (Full PDB)
