@@ -1,0 +1,5 @@
+﻿  example_63_2_void_pointer.c
+c:\users\slee194\documents\visual studio 2015\projects\example_63_2_void_pointer\example_63_2_void_pointer\example_63_2_void_pointer.c(37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\slee194\documents\visual studio 2015\projects\example_63_2_void_pointer\example_63_2_void_pointer\example_63_2_void_pointer.c(39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  example_63_2_void_pointer.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_63_2_void_pointer\Debug\example_63_2_void_pointer.exe
+  example_63_2_void_pointer.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_63_2_void_pointer\Debug\example_63_2_void_pointer.pdb (Full PDB)
