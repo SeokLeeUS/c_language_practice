@@ -1,0 +1,5 @@
+﻿  example_61_1_function_return_value.c
+c:\users\slee194\documents\visual studio 2015\projects\example_61_1_function_return_value\example_61_1_function_return_value\example_61_1_function_return_value.c(38): warning C4101: 'num2': unreferenced local variable
+c:\users\slee194\documents\visual studio 2015\projects\example_61_1_function_return_value\example_61_1_function_return_value\example_61_1_function_return_value.c(39): warning C4101: 'b1': unreferenced local variable
+  example_61_1_function_return_value.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_61_1_function_return_value\Debug\example_61_1_function_return_value.exe
+  example_61_1_function_return_value.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_61_1_function_return_value\Debug\example_61_1_function_return_value.pdb (Full PDB)
