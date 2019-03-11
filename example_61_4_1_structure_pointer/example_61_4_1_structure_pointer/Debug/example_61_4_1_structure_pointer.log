@@ -1,0 +1,4 @@
+﻿  example_61_4_1_structure_pointer.c
+c:\users\slee194\documents\visual studio 2015\projects\example_61_4_1_structure_pointer\example_61_4_1_structure_pointer\example_61_4_1_structure_pointer.c(58): warning C4133: '=': incompatible types - from 'PPerson' to 'Person *'
+  example_61_4_1_structure_pointer.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_61_4_1_structure_pointer\Debug\example_61_4_1_structure_pointer.exe
+  example_61_4_1_structure_pointer.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_61_4_1_structure_pointer\Debug\example_61_4_1_structure_pointer.pdb (Full PDB)
