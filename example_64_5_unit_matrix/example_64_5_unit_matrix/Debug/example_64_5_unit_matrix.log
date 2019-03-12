@@ -1,0 +1,4 @@
+﻿  example_64_5_unit_matrix.c
+c:\users\slee194\documents\visual studio 2015\projects\example_64_5_unit_matrix\example_64_5_unit_matrix\example_64_5_unit_matrix.c(16): warning C4716: 'setIdentityMatrix': must return a value
+  example_64_5_unit_matrix.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_64_5_unit_matrix\Debug\example_64_5_unit_matrix.exe
+  example_64_5_unit_matrix.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_64_5_unit_matrix\Debug\example_64_5_unit_matrix.pdb (Full PDB)
