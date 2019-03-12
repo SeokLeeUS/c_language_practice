@@ -1,0 +1,4 @@
+﻿  test_64_7_transpose_func.c
+c:\users\slee194\documents\visual studio 2015\projects\test_64_7_transpose_func\test_64_7_transpose_func\test_64_7_transpose_func.c(22): warning C4716: 'transpose': must return a value
+  test_64_7_transpose_func.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\test_64_7_transpose_func\Debug\test_64_7_transpose_func.exe
+  test_64_7_transpose_func.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\test_64_7_transpose_func\Debug\test_64_7_transpose_func.pdb (Full PDB)
