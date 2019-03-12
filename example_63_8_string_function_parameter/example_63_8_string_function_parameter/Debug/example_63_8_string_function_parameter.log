@@ -1,0 +1,6 @@
+﻿  example_63_8_string_function_parameter.c
+c:\users\slee194\documents\visual studio 2015\projects\example_63_8_string_function_parameter\example_63_8_string_function_parameter\example_63_8_string_function_parameter.c(8): warning C4047: 'function': 'const char *' differs in levels of indirection from 'int'
+c:\users\slee194\documents\visual studio 2015\projects\example_63_8_string_function_parameter\example_63_8_string_function_parameter\example_63_8_string_function_parameter.c(8): warning C4024: 'strcmp': different types for formal and actual parameter 1
+c:\users\slee194\documents\visual studio 2015\projects\example_63_8_string_function_parameter\example_63_8_string_function_parameter\example_63_8_string_function_parameter.c(8): warning C4024: 'strcmp': different types for formal and actual parameter 2
+  example_63_8_string_function_parameter.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_63_8_string_function_parameter\Debug\example_63_8_string_function_parameter.exe
+  example_63_8_string_function_parameter.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_63_8_string_function_parameter\Debug\example_63_8_string_function_parameter.pdb (Full PDB)
