@@ -1,0 +1,4 @@
+﻿  example_67_1_recursive_function_call.c
+c:\users\slee194\documents\visual studio 2015\projects\example_67_1_recursive_function_call\example_67_1_recursive_function_call\example_67_1_recursive_function_call.c(6): warning C4717: 'hello': recursive on all control paths, function will cause runtime stack overflow
+  example_67_1_recursive_function_call.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_67_1_recursive_function_call\Debug\example_67_1_recursive_function_call.exe
+  example_67_1_recursive_function_call.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_67_1_recursive_function_call\Debug\example_67_1_recursive_function_call.pdb (Full PDB)
