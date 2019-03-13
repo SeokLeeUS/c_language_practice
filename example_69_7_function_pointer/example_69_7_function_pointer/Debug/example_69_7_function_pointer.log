@@ -1,0 +1,8 @@
+﻿  example_69_7_function_pointer.c
+c:\users\slee194\documents\visual studio 2015\projects\example_69_7_function_pointer\example_69_7_function_pointer\example_69_7_function_pointer.c(26): warning C4047: 'return': 'int' differs in levels of indirection from 'int (__cdecl *)(int,int)'
+c:\users\slee194\documents\visual studio 2015\projects\example_69_7_function_pointer\example_69_7_function_pointer\example_69_7_function_pointer.c(34): warning C4047: 'function': 'int (__cdecl *)(int,int)' differs in levels of indirection from 'int'
+c:\users\slee194\documents\visual studio 2015\projects\example_69_7_function_pointer\example_69_7_function_pointer\example_69_7_function_pointer.c(34): warning C4024: 'executer': different types for formal and actual parameter 1
+c:\users\slee194\documents\visual studio 2015\projects\example_69_7_function_pointer\example_69_7_function_pointer\example_69_7_function_pointer.c(35): warning C4047: 'function': 'int (__cdecl *)(int,int)' differs in levels of indirection from 'int'
+c:\users\slee194\documents\visual studio 2015\projects\example_69_7_function_pointer\example_69_7_function_pointer\example_69_7_function_pointer.c(35): warning C4024: 'executer': different types for formal and actual parameter 1
+  example_69_7_function_pointer.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_69_7_function_pointer\Debug\example_69_7_function_pointer.exe
+  example_69_7_function_pointer.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_69_7_function_pointer\Debug\example_69_7_function_pointer.pdb (Full PDB)
