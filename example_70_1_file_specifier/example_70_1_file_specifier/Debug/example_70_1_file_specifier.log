@@ -1,3 +1,4 @@
 ﻿  example_70_1_file_specifier.c
-  example_70_1_file_specifier.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_70_1_file_specifier\Debug\example_70_1_file_specifier.exe
-  example_70_1_file_specifier.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_70_1_file_specifier\Debug\example_70_1_file_specifier.pdb (Full PDB)
+c:\users\slee194\documents\visual studio 2015\projects\example_70_1_file_specifier\example_70_1_file_specifier\example_70_1_file_specifier.c(26): warning C4013: 'strlen' undefined; assuming extern returning int
+  example_70_1_file_specifier.vcxproj -> C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\example_70_1_file_specifier\Debug\example_70_1_file_specifier.exe
+  example_70_1_file_specifier.vcxproj -> C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\example_70_1_file_specifier\Debug\example_70_1_file_specifier.pdb (Full PDB)
