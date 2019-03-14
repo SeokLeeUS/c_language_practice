@@ -1,0 +1,7 @@
+﻿  example_72_5_fread_struct.c
+c:\users\slee194\documents\visual studio 2015\projects\example_72_5_fread_struct\example_72_5_fread_struct\example_72_5_fread_struct.c(35): warning C4477: 'printf' : format string '%f' requires an argument of type 'double', but variadic argument 6 has type 'char *'
+c:\users\slee194\documents\visual studio 2015\projects\example_72_5_fread_struct\example_72_5_fread_struct\example_72_5_fread_struct.c(35): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\slee194\documents\visual studio 2015\projects\example_72_5_fread_struct\example_72_5_fread_struct\example_72_5_fread_struct.c(35): note: placeholders and their parameters expect 7 variadic arguments, but 6 were provided
+  c:\users\slee194\documents\visual studio 2015\projects\example_72_5_fread_struct\example_72_5_fread_struct\example_72_5_fread_struct.c(35): note: the missing variadic argument 7 is required by format string '%s'
+  example_72_5_fread_struct.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_72_5_fread_struct\Debug\example_72_5_fread_struct.exe
+  example_72_5_fread_struct.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_72_5_fread_struct\Debug\example_72_5_fread_struct.pdb (Full PDB)
