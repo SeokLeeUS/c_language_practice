@@ -1,0 +1,5 @@
+﻿  test_32_6_switch_goto.c
+c:\users\slee194\documents\visual studio 2015\projects\test_32_5_switch\test_32_5_switch\test_32_6_switch_goto.c(16): warning C4102: 'EXIT1': unreferenced label
+c:\users\slee194\documents\visual studio 2015\projects\test_32_5_switch\test_32_5_switch\test_32_6_switch_goto.c(18): warning C4102: 'EXIT2': unreferenced label
+  test_32_5_switch.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\test_32_5_switch\Debug\test_32_5_switch.exe
+  test_32_5_switch.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\test_32_5_switch\Debug\test_32_5_switch.pdb (Full PDB)

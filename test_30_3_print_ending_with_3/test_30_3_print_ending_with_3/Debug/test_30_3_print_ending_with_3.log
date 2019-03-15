@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (test_30_3_print_ending_with_3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  test_30_3_print_ending_three.c
+  test_30_3_print_ending_with_3.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\test_30_3_print_ending_with_3\Debug\test_30_3_print_engine_three.exe
+  test_30_3_print_ending_with_3.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\test_30_3_print_ending_with_3\Debug\test_30_3_print_engine_three.pdb (Full PDB)
