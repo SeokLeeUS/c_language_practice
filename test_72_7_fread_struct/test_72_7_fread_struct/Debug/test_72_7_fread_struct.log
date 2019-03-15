@@ -1,0 +1,5 @@
+﻿  test_72_7_fread_struct.c
+c:\users\slee194\documents\visual studio 2015\projects\test_72_7_fread_struct\test_72_7_fread_struct\test_72_7_fread_struct.c(20): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'char *'
+c:\users\slee194\documents\visual studio 2015\projects\test_72_7_fread_struct\test_72_7_fread_struct\test_72_7_fread_struct.c(20): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 4 has type 'int'
+  test_72_7_fread_struct.vcxproj -> C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\test_72_7_fread_struct\Debug\test_72_7_fread_struct.exe
+  test_72_7_fread_struct.vcxproj -> C:\Users\SLEE194\Documents\Visual Studio 2015\Projects\test_72_7_fread_struct\Debug\test_72_7_fread_struct.pdb (Full PDB)
