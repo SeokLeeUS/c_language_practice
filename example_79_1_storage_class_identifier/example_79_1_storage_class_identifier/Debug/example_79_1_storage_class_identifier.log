@@ -1,0 +1,4 @@
+﻿  example_79_1_storage_class_identifier.c
+c:\users\slee194\documents\visual studio 2015\projects\example_79_1_storage_class_identifier\example_79_1_storage_class_identifier\example_79_1_storage_class_identifier.c(20): warning C4013: 'printf' undefined; assuming extern returning int
+  example_79_1_storage_class_identifier.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_79_1_storage_class_identifier\Debug\example_79_1_storage_class_identifier.exe
+  example_79_1_storage_class_identifier.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_79_1_storage_class_identifier\Debug\example_79_1_storage_class_identifier.pdb (Full PDB)
