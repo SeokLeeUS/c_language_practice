@@ -1,0 +1,5 @@
+﻿  example_39_string.c
+c:\users\slee194\documents\visual studio 2015\projects\example_39_string\example_39_string\example_39_string.c(4): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [6]'
+c:\users\slee194\documents\visual studio 2015\projects\example_39_string\example_39_string\example_39_string.c(5): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int'
+  example_39_string.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_39_string\Debug\example_39_string.exe
+  example_39_string.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_39_string\Debug\example_39_string.pdb (Full PDB)

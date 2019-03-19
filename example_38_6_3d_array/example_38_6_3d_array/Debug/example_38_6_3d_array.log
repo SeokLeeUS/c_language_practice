@@ -1,0 +1,6 @@
+﻿  example_38_6_3d_array.c
+c:\users\slee194\documents\visual studio 2015\projects\example_38_6_3d_array\example_38_6_3d_array\example_38_6_3d_array.c(16): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '__int64'
+  c:\users\slee194\documents\visual studio 2015\projects\example_38_6_3d_array\example_38_6_3d_array\example_38_6_3d_array.c(16): note: consider using '%lld' in the format string
+  c:\users\slee194\documents\visual studio 2015\projects\example_38_6_3d_array\example_38_6_3d_array\example_38_6_3d_array.c(16): note: consider using '%I64d' in the format string
+  example_38_6_3d_array.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_38_6_3d_array\Debug\example_38_6_3d_array.exe
+  example_38_6_3d_array.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_38_6_3d_array\Debug\example_38_6_3d_array.pdb (Full PDB)
