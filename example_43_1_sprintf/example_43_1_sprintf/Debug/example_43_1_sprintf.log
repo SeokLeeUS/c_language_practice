@@ -1,0 +1,6 @@
+﻿  example_43_1_sprintf.c
+c:\users\slee194\documents\visual studio 2015\projects\example_43_1_sprintf\example_43_1_sprintf\example_43_1_sprintf.c(8): warning C4047: 'function': 'char *const ' differs in levels of indirection from 'char *[30]'
+c:\users\slee194\documents\visual studio 2015\projects\example_43_1_sprintf\example_43_1_sprintf\example_43_1_sprintf.c(8): warning C4024: 'sprintf': different types for formal and actual parameter 1
+c:\users\slee194\documents\visual studio 2015\projects\example_43_1_sprintf\example_43_1_sprintf\example_43_1_sprintf.c(9): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+  example_43_1_sprintf.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_43_1_sprintf\Debug\example_43_1_sprintf.exe
+  example_43_1_sprintf.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_43_1_sprintf\Debug\example_43_1_sprintf.pdb (Full PDB)
