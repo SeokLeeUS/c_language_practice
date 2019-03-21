@@ -1,0 +1,9 @@
+﻿  example_20_7_operator.c
+c:\users\slee194\documents\visual studio 2015\projects\example_20_7_operator\example_20_7_operator\example_20_7_operator.c(12): warning C4566: character represented by universal-character-name '\uAC70' cannot be represented in the current code page (1252)
+c:\users\slee194\documents\visual studio 2015\projects\example_20_7_operator\example_20_7_operator\example_20_7_operator.c(12): warning C4566: character represented by universal-character-name '\uC9D3' cannot be represented in the current code page (1252)
+c:\users\slee194\documents\visual studio 2015\projects\example_20_7_operator\example_20_7_operator\example_20_7_operator.c(16): warning C4566: character represented by universal-character-name '\uCC38' cannot be represented in the current code page (1252)
+c:\users\slee194\documents\visual studio 2015\projects\example_20_7_operator\example_20_7_operator\example_20_7_operator.c(21): warning C4566: character represented by universal-character-name '\uAC70' cannot be represented in the current code page (1252)
+c:\users\slee194\documents\visual studio 2015\projects\example_20_7_operator\example_20_7_operator\example_20_7_operator.c(21): warning C4566: character represented by universal-character-name '\uC9D3' cannot be represented in the current code page (1252)
+c:\users\slee194\documents\visual studio 2015\projects\example_20_7_operator\example_20_7_operator\example_20_7_operator.c(7): warning C4101: 'num1': unreferenced local variable
+  example_20_7_operator.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_20_7_operator\Debug\example_20_7_operator.exe
+  example_20_7_operator.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_20_7_operator\Debug\example_20_7_operator.pdb (Full PDB)
