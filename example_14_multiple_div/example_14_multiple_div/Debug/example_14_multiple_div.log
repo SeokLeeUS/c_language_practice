@@ -1,0 +1,4 @@
+﻿  example_14_1_multi_div.cpp
+c:\users\slee194\documents\visual studio 2015\projects\example_14_multiple_div\example_14_multiple_div\example_14_1_multi_div.cpp(6): warning C4101: 'num3': unreferenced local variable
+  example_14_multiple_div.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_14_multiple_div\Debug\example_14_multiple_div.exe
+  example_14_multiple_div.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_14_multiple_div\Debug\example_14_multiple_div.pdb (Full PDB)
