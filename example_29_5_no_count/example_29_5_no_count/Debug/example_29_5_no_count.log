@@ -1,0 +1,4 @@
+﻿  example_29_5_count_do_while.cpp
+c:\users\slee194\documents\visual studio 2015\projects\example_29_5_no_count\example_29_5_no_count\example_29_5_count_do_while.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  example_29_5_no_count.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_29_5_no_count\Debug\example_29_5_no_count.exe
+  example_29_5_no_count.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_29_5_no_count\Debug\example_29_5_no_count.pdb (Full PDB)

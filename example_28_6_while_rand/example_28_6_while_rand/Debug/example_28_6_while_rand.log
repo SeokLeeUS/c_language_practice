@@ -1,0 +1,4 @@
+﻿  example_28_6_while_rand.c
+c:\users\slee194\documents\visual studio 2015\projects\example_28_6_while_rand\example_28_6_while_rand\example_28_6_while_rand.c(8): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  example_28_6_while_rand.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_28_6_while_rand\Debug\example_28_6_while_rand.exe
+  example_28_6_while_rand.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_28_6_while_rand\Debug\example_28_6_while_rand.pdb (Full PDB)
