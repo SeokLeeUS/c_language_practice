@@ -1,0 +1,4 @@
+﻿  example_16_1_datatype_expansion.c
+c:\users\slee194\documents\visual studio 2015\projects\example_16_1_datatype_expansion\example_16_1_datatype_expansion\example_16_1_datatype_expansion.c(19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  example_16_1_datatype_expansion.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_16_1_datatype_expansion\Debug\example_16_1_datatype_expansion.exe
+  example_16_1_datatype_expansion.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_16_1_datatype_expansion\Debug\example_16_1_datatype_expansion.pdb (Full PDB)

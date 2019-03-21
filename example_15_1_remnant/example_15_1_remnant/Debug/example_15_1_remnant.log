@@ -1,0 +1,5 @@
+﻿  example_15_1_remnant.c
+c:\users\slee194\documents\visual studio 2015\projects\example_15_1_remnant\example_15_1_remnant\example_15_1_remnant.c(23): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\slee194\documents\visual studio 2015\projects\example_15_1_remnant\example_15_1_remnant\example_15_1_remnant.c(23): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  example_15_1_remnant.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_15_1_remnant\Debug\example_15_1_remnant.exe
+  example_15_1_remnant.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_15_1_remnant\Debug\example_15_1_remnant.pdb (Full PDB)
