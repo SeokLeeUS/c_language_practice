@@ -1,0 +1,3 @@
+﻿  example_34_5_void_pointer.c
+c:\users\slee194\documents\visual studio 2015\projects\example_34_5_void_pointer\example_34_5_void_pointer\example_34_5_void_pointer.c(17): error C2100: illegal indirection
+c:\users\slee194\documents\visual studio 2015\projects\example_34_5_void_pointer\example_34_5_void_pointer\example_34_5_void_pointer.c(17): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'void *'

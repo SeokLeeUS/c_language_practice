@@ -1,0 +1,5 @@
+﻿  example_34_4_dataype_pointer.c
+c:\users\slee194\documents\visual studio 2015\projects\example_34_4_datatype_pointer\example_34_4_datatype_pointer\example_34_4_dataype_pointer.c(24): error C2373: 'num1': redefinition; different type modifiers
+  c:\users\slee194\documents\visual studio 2015\projects\example_34_4_datatype_pointer\example_34_4_datatype_pointer\example_34_4_dataype_pointer.c(8): note: see declaration of 'num1'
+c:\users\slee194\documents\visual studio 2015\projects\example_34_4_datatype_pointer\example_34_4_datatype_pointer\example_34_4_dataype_pointer.c(27): warning C4133: '=': incompatible types - from '__int64 *' to 'const int *'
+c:\users\slee194\documents\visual studio 2015\projects\example_34_4_datatype_pointer\example_34_4_datatype_pointer\example_34_4_dataype_pointer.c(28): error C2166: l-value specifies const object
