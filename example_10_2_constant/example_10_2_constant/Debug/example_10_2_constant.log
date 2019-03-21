@@ -1,0 +1,2 @@
+﻿  example_10_2_constant.cpp
+c:\users\slee194\documents\visual studio 2015\projects\example_10_2_constant\example_10_2_constant\example_10_2_constant.cpp(11): error C3892: 'con1': you cannot assign to a variable that is const

@@ -1,0 +1,3 @@
+﻿  example_11_1_take_integer_input.cpp
+c:\users\slee194\documents\visual studio 2015\projects\example_11_1_integer_input\example_11_1_integer_input\example_11_1_take_integer_input.cpp(15): error C2664: 'int printf(const char *const ,...)': cannot convert argument 1 from 'int' to 'const char *const '
+  c:\users\slee194\documents\visual studio 2015\projects\example_11_1_integer_input\example_11_1_integer_input\example_11_1_take_integer_input.cpp(15): note: Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast

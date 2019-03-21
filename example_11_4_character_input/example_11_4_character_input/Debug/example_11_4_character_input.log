@@ -1,0 +1,4 @@
+﻿  example_11_4_character_input.c
+c:\users\slee194\documents\visual studio 2015\projects\example_11_4_character_input\example_11_4_character_input\example_11_4_character_input.c(16): warning C4305: 'initializing': truncation from 'int' to 'char'
+  example_11_4_character_input.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_11_4_character_input\Debug\example_11_4_character_input.exe
+  example_11_4_character_input.vcxproj -> c:\users\slee194\documents\visual studio 2015\Projects\example_11_4_character_input\Debug\example_11_4_character_input.pdb (Full PDB)
